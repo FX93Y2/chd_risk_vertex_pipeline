@@ -2,6 +2,7 @@
 
 ## Overview
 This project implements a machine learning pipeline for predicting 10-year Coronary Heart Disease (CHD) risk using Google Vertex AI Pipelines.
+See detailed EDA/model selection and result here: [FinalReport](doc/FinalReport.pdf)
 
 ## Pipeline Architecture
 ### Overview
